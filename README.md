@@ -12,4 +12,5 @@ Highlight the top 20 High revenue customers for the year 2016 and 2017 in other 
 * Use the average profit as a benchmark to classify low revenue and high revenue customers.
 * Plot a graph for easier understanding for the company.
 
-(C:\Users\Uyoyo\Pictures\Project picture Github\high customer US Superstore.png)
+### Conclusion
+In conclusion, High revenue customers in 2016 and 2017 generated 82% and 81% respectively. Given the data above, more data needs to be gathered to make a decision about giving discounts only to High revenue customers.
