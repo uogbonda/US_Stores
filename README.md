@@ -12,5 +12,4 @@ Highlight the top 20 High revenue customers for the year 2016 and 2017 in other 
 * Use the average profit as a benchmark to classify low revenue and high revenue customers.
 * Plot a graph for easier understanding for the company.
 
-
-![myimage-alt-tag](C:\Users\Uyoyo\Pictures\Project picture Github\high customer US Superstore.png)
+(C:\Users\Uyoyo\Pictures\Project picture Github\high customer US Superstore.png)
