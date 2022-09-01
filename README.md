@@ -13,4 +13,4 @@ Highlight the top 20 High revenue customers for the year 2016 and 2017 in other 
 * Plot a graph for easier understanding for the company.
 
 
-![Optional Text](
+![myimage-alt-tag](C:\Users\Uyoyo\Pictures\Project picture Github\high customer US Superstore.png)
