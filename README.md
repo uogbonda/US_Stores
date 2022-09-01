@@ -11,3 +11,6 @@ Highlight the top 20 High revenue customers for the year 2016 and 2017 in other 
 * Get average sales and profit of each year, even the total profit as well.
 * Use the average profit as a benchmark to classify low revenue and high revenue customers.
 * Plot a graph for easier understanding for the company.
+
+
+![Optional Text](
