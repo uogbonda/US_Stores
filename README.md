@@ -1,2 +1,1 @@
-# tsne from scratch from jmloyola
-tsne
+# US Superstore 
